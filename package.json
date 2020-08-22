@@ -1,0 +1,30 @@
+{
+  "name": "podcast_design",
+  "version": "1.0.0",
+  "description": "audio podacasting website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aftab-ua/Podcast_design.git"
+  },
+  "keywords": [
+    "audio",
+    "podcast",
+    "figma"
+  ],
+  "author": "aftab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aftab-ua/Podcast_design/issues"
+  },
+  "homepage": "https://github.com/aftab-ua/Podcast_design#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.0"
+  }
+}
